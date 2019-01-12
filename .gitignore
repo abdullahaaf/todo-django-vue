@@ -1,2 +1,16 @@
 /vuengo/node_modules
 /vuengo/settings.py
+
+/vuengo/.DS_Store
+/vuengo/dist/
+/vuengo/npm-debug.log*
+/vuengo/yarn-debug.log*
+/vuengo/yarn-error.log*
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
